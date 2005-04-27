@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCOMPorts", "..\SerialCOMPorts\SerialCOMPorts.csproj", "{8D40F55D-4D19-4362-891F-C99A24A9ABA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COm", "..\COm\COm.csproj", "{A05CD358-4EC1-4F21-9687-068D2E1E5652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuFuDi", "MuFuDi\MuFuDi.csproj", "{D9642698-8A44-4986-A43E-5A631CFEB536}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8D40F55D-4D19-4362-891F-C99A24A9ABA8}.Debug.ActiveCfg = Debug|.NET
+		{8D40F55D-4D19-4362-891F-C99A24A9ABA8}.Debug.Build.0 = Debug|.NET
+		{8D40F55D-4D19-4362-891F-C99A24A9ABA8}.Release.ActiveCfg = Release|.NET
+		{8D40F55D-4D19-4362-891F-C99A24A9ABA8}.Release.Build.0 = Release|.NET
+		{A05CD358-4EC1-4F21-9687-068D2E1E5652}.Debug.ActiveCfg = Debug|.NET
+		{A05CD358-4EC1-4F21-9687-068D2E1E5652}.Debug.Build.0 = Debug|.NET
+		{A05CD358-4EC1-4F21-9687-068D2E1E5652}.Release.ActiveCfg = Release|.NET
+		{A05CD358-4EC1-4F21-9687-068D2E1E5652}.Release.Build.0 = Release|.NET
+		{D9642698-8A44-4986-A43E-5A631CFEB536}.Debug.ActiveCfg = Debug|.NET
+		{D9642698-8A44-4986-A43E-5A631CFEB536}.Debug.Build.0 = Debug|.NET
+		{D9642698-8A44-4986-A43E-5A631CFEB536}.Release.ActiveCfg = Release|.NET
+		{D9642698-8A44-4986-A43E-5A631CFEB536}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
